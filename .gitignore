@@ -1,0 +1,7 @@
+# Fichiers de cache et environnements virtuels Python
+__pycache__/
+*.pyc
+.venv/
+
+# Fichiers de sortie générés par les scripts
+leads_consolides*.xlsx
